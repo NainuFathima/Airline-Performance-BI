@@ -44,9 +44,8 @@ Technologies Used
 
 
 🔹 Power BI – For creating interactive dashboards
-🔹 Microsoft Excel – For data preprocessing and structuring
-🔹 SQL – For querying airline datasets
-🔹 Python – For data cleaning and additional analytics
+🔹 Power Query - For ETL Data cleaning and modification.
+🔹 Data Modelling.
 
 
 
