@@ -2,6 +2,8 @@
 AirlinePerformanceBI ✈️📊
 
 Overview
+
+
 AirlinePerformanceBI is a comprehensive Power BI dashboard designed to analyze airline performance across various key metrics. This dashboard provides insights into passenger trends, payload statistics, and operational efficiency, enabling data-driven decision-making for airline stakeholders.
 
 It includes multiple interactive dashboards focusing on different aspects of airline performance:
@@ -13,6 +15,8 @@ It includes multiple interactive dashboards focusing on different aspects of air
 
 
 Key Features
+
+
 ✅ Passenger Trends – Track the number of passengers over time, identify peak travel periods, and understand passenger flow.
 ✅ Payload Insights – Analyze baggage, cargo, and overall payload metrics to optimize airline logistics.
 ✅ Performance Monitoring – Monitor KPIs such as total flights, revenue, and operational efficiency.
@@ -21,6 +25,8 @@ Key Features
 
 
 Dashboard Previews
+
+
 🏠 Home Page
 Provides an overview of the entire airline performance dataset.
 
@@ -35,6 +41,8 @@ Insights into payload and cargo distribution, helping optimize weight management
 
 
 Technologies Used
+
+
 🔹 Power BI – For creating interactive dashboards
 🔹 Microsoft Excel – For data preprocessing and structuring
 🔹 SQL – For querying airline datasets
