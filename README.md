@@ -35,7 +35,7 @@ An interactive Power BI project designed to analyze and visualize airline perfor
 
 ## 📁 Files Included
 
-- AirlinePerformanceBI.pbix – Power BI dashboard file containing all visuals and data connections.
+- AirlinePerformanceBI.pbix – Power BI dashboard file containing all visuals and data connections(https://github.com/NainuFathima/Airline-Performance-BI/blob/5244a71c03cad21c495d87e7e1b3da3832122f01/PBI%20DASHBOARD.pbix)
 - /images/Home Page.png – Snapshot of the Home dashboard view.
 - /images/Overview Dashboard.png – Preview of the high-level overview dashboard.
 - /images/Passengers Dashboard.png – Visual of passenger trend analysis.
