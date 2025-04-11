@@ -37,7 +37,7 @@ An interactive Power BI project designed to analyze and visualize airline perfor
 
 - AirlinePerformanceBI.pbix – Power BI dashboard file containing all visuals and data connections(https://github.com/NainuFathima/Airline-Performance-BI/blob/5244a71c03cad21c495d87e7e1b3da3832122f01/PBI%20DASHBOARD.pbix)
 - /(https://github.com/NainuFathima/Airline-Performance-BI/blob/5244a71c03cad21c495d87e7e1b3da3832122f01/Home%20Page.png) – Snapshot of the Home dashboard view.
-- /images/Overview Dashboard.png – Preview of the high-level overview dashboard.
+- /(https://github.com/NainuFathima/Airline-Performance-BI/blob/355eaa1140e9af6caa58894a037b8c9125ecca2d/Overview%20Dashboard.png) – Preview of the high-level overview dashboard.
 - /images/Passengers Dashboard.png – Visual of passenger trend analysis.
 - /images/Payload Dashboard.png – Preview of payload and cargo insights.
 - README.md – Complete documentation of the project with usage instructions and visuals.
@@ -52,7 +52,7 @@ Overview of KPIs like passengers, payload, and flights
 
 ### 📊 Overview Dashboard  
 Track operational KPIs, revenue, and total flights  
-![Overview Dashboard]()
+![Overview Dashboard](https://github.com/NainuFathima/Airline-Performance-BI/blob/355eaa1140e9af6caa58894a037b8c9125ecca2d/Overview%20Dashboard.png)
 
 ### 🧑‍✈️ Passengers Dashboard  
 Visualize total passengers, seasonality trends, and peaks  
