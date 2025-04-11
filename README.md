@@ -89,7 +89,10 @@ Analyze baggage, freight, and total Load carried
 
 ## 📩 Contact
 
-- Author 
+Author : **Nainu**
+- Email: **nainufathima1@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/nainu-fathima-26a525219**
+- Tools : Power BI | High Cloud Aviation data set 
 
 
 
