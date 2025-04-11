@@ -11,7 +11,7 @@ An interactive Power BI project designed to analyze and visualize airline perfor
 - **🏠 Home Page** – At-a-glance summary of major airline insights
 - **📊 Overview Dashboard** – High-level trends in operations, flights, and efficiency
 - **🧑‍✈️ Passengers Dashboard** – Trends in passenger numbers, seasonality, and flow
-- **📦 Payload Dashboard** – Cargo and payload distribution insights
+- **📦 load Factor Dashboard** – Cargo and payload distribution insights
 
 ---
 
@@ -39,7 +39,7 @@ An interactive Power BI project designed to analyze and visualize airline perfor
 - /(https://github.com/NainuFathima/Airline-Performance-BI/blob/5244a71c03cad21c495d87e7e1b3da3832122f01/Home%20Page.png) – Snapshot of the Home dashboard view.
 - /(https://github.com/NainuFathima/Airline-Performance-BI/blob/355eaa1140e9af6caa58894a037b8c9125ecca2d/Overview%20Dashboard.png) – Preview of the high-level overview dashboard.
 - /(https://github.com/NainuFathima/Airline-Performance-BI/blob/7b63c74516a90f3cda5c429964904ad36bf1b4c8/Passengers%20Dashboard.png) – Visual of passenger trend analysis.
-- /images/Payload Dashboard.png – Preview of payload and cargo insights.
+- /(https://github.com/NainuFathima/Airline-Performance-BI/blob/7b63c74516a90f3cda5c429964904ad36bf1b4c8/Passengers%20Dashboard.png) – Preview of payload and cargo insights.
 - README.md – Complete documentation of the project with usage instructions and visuals.
 
 ---
@@ -58,9 +58,9 @@ Track operational KPIs, revenue, and total flights
 Visualize total passengers, seasonality trends, and peaks  
 ![Passengers Dashboard](https://github.com/NainuFathima/Airline-Performance-BI/blob/7b63c74516a90f3cda5c429964904ad36bf1b4c8/Passengers%20Dashboard.png)
 
-### 📦 Payload Dashboard  
+### 📦 load Factor Dashboard  
 Analyze baggage, freight, and total cargo carried  
-![Payload Dashboard]()
+![Payload Dashboard](https://github.com/NainuFathima/Airline-Performance-BI/blob/7b63c74516a90f3cda5c429964904ad36bf1b4c8/Passengers%20Dashboard.png)
 
 ---
 
