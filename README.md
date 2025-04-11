@@ -59,7 +59,7 @@ Visualize total passengers, seasonality trends, and peaks
 ![Passengers Dashboard](https://github.com/NainuFathima/Airline-Performance-BI/blob/7b63c74516a90f3cda5c429964904ad36bf1b4c8/Passengers%20Dashboard.png)
 
 ### 📦 load Factor Dashboard  
-Analyze baggage, freight, and total cargo carried  
+Analyze baggage, freight, and total Load carried  
 ![Load Factor Dashboard](https://github.com/NainuFathima/Airline-Performance-BI/blob/1933e0f158373b5cc84a594d3f7f7432f976eadc/load%20Factor%20Dashboard.png)
 
 ---
